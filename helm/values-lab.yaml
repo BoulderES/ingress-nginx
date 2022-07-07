@@ -1,4 +1,6 @@
 ---
+type: NodePort
+
 controller:
 
   replicaCount: 5
