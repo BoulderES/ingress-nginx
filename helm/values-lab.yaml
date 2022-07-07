@@ -1,6 +1,8 @@
 ---
 controller:
 
+  replicaCount: 3
+
   ingressClassResource:
     # -- Name of the ingressClass
     name: nginx
